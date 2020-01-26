@@ -1,0 +1,8 @@
+.statistics{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: rgb(59, 58, 58)
+}
